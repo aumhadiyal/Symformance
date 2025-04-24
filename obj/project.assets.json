@@ -5235,6 +5235,7 @@
       ],
       "sources": {
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Aum\\aumx64\\Symformance\\bin\\Release": {},
         "D:\\DLL": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -5261,7 +5262,6 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Fody": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
             "version": "[6.9.2, )"

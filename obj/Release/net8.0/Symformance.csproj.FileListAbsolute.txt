@@ -1,0 +1,15 @@
+D:\Aum\aumx64\Symformance\bin\Release\net8.0\Symformance.deps.json
+D:\Aum\aumx64\Symformance\bin\Release\net8.0\Symformance.dll
+D:\Aum\aumx64\Symformance\bin\Release\net8.0\Symformance.pdb
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.csproj.AssemblyReference.cache
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.AssemblyInfoInputs.cache
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.AssemblyInfo.cs
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.csproj.CoreCompileInputs.cache
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.sourcelink.json
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.csproj.Fody.CopyLocal.cache
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.csproj.Fody.RuntimeCopyLocal.cache
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.dll
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\refint\Symformance.dll
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\Symformance.pdb
+D:\Aum\aumx64\Symformance\obj\Release\net8.0\ref\Symformance.dll

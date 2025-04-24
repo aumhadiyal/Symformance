@@ -15,9 +15,12 @@ namespace Symformance.Configuration
 
             var jsonPath = configuration["Symformance:OutputPath"];
 
+            var projectRoot = Path.GetFullPath(
+                Path.Combine(AppContext.BaseDirectory, @"..\..\..\")
+            );
             OutputPath = !string.IsNullOrWhiteSpace(jsonPath)
                 ? jsonPath
-                : Path.Combine(AppContext.BaseDirectory, "PerformanceLogs");
+                : Path.Combine(projectRoot, "PerformanceLogs");
 
             Directory.CreateDirectory(OutputPath);
         }

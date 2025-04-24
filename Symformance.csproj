@@ -4,17 +4,27 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- NuGet Package Info -->
+    <PackageId>Symformance</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Aum Hadiyal</Authors>
+    <Company>Aum Hadiyal</Company>
+    <Product>Symformance</Product>
+    <Description>A lightweight performance profiler for .NET using MethodDecorator.Fody</Description>
+    <PackageProjectUrl>https://github.com/aumhadiyal/Symformance</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aumhadiyal/Symformance</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>performance profiler fody symformance logging</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
     <PackageReference Include="MethodDecorator.Fody" Version="1.1.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.4" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.4" />    
-    <PackageReference Include="Fody" Version="6.9.2">
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.4" />
+    <PackageReference Include="Fody" Version="6.9.2" PrivateAssets="All" />
   </ItemGroup>
 
 </Project>
