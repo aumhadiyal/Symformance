@@ -12,4 +12,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\sspl1462\.nuget\packages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)methoddecorator.fody\1.1.1\build\MethodDecorator.Fody.props" Condition="Exists('$(NuGetPackageRoot)methoddecorator.fody\1.1.1\build\MethodDecorator.Fody.props')" />
+  </ImportGroup>
 </Project>
