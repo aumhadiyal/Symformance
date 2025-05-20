@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+*.user
+*.suo
+
+# Rider files
+.idea/
+
+# VSCode files
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Logs
+*.log
+
+# User-specific files
+*.vs/
