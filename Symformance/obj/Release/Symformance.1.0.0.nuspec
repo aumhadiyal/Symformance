@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Symformance</id>
+    <version>1.0.0</version>
+    <authors>Aum</authors>
+    <description>A performance profiler using [Sym] attribute</description>
+    <repository type="git" commit="9fcf8138b3187d611e8dec80938bda82e2293f49" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Aum\aumx64\Symformance\Symformance\Symformance\bin\release\net9.0\Symformance.dll" target="lib\net9.0\Symformance.dll" />
+  </files>
+</package>

@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+      <TargetFramework>net9.0</TargetFramework>
+      <Version>1.0.0</Version>
+      <PackageId>Symformance</PackageId>
+      <Authors>Aum</Authors>
+      <Description>A performance profiler using [Sym] attribute</Description>
+      <PackageOutputPath>./nupkg</PackageOutputPath> 
+    </PropertyGroup>
+</Project>

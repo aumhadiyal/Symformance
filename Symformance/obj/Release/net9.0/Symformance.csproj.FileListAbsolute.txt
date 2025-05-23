@@ -1,0 +1,12 @@
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.AssemblyInfoInputs.cache
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.AssemblyInfo.cs
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.csproj.CoreCompileInputs.cache
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.sourcelink.json
+D:\Aum\aumx64\Symformance\Symformance\Symformance\bin\Release\net9.0\Symformance.deps.json
+D:\Aum\aumx64\Symformance\Symformance\Symformance\bin\Release\net9.0\Symformance.dll
+D:\Aum\aumx64\Symformance\Symformance\Symformance\bin\Release\net9.0\Symformance.pdb
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.dll
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\refint\Symformance.dll
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\Symformance.pdb
+D:\Aum\aumx64\Symformance\Symformance\Symformance\obj\Release\net9.0\ref\Symformance.dll
